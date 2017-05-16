@@ -133,6 +133,14 @@ a:visited {
   height: 400px;
 }
 
+#ben-greenberg-cover {
+  background-image: url("http://i.imgur.com/q2Vbrbz.jpg")
+}
+
+#ben-greenberg-card {
+  background-image: url("http://i.imgur.com/duePYre.png")
+}
+
 #irina-afanaseva-cover {
     background-image: url("http://i.imgur.com/0mb6WMf.jpg");
 }
