@@ -132,6 +132,11 @@ a:visited {
   display: block;
   height: 400px;
 }
+
+#tania-aparicio-cover {
+  background-image: url("https://imgur.com/TTh5aZJ");
+}
+
 #aly-alidina-cover {
     background-image: url("http://imgur.com/ucFtuBt.jpg");
 }
